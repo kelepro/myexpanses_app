@@ -12,7 +12,7 @@ You can see how much do you spent on the day and earlier
 
 -Landscape vision
 
-<img src="assets/images/IMG_3.jpg"/><br>
 <img src="assets/images/IMG_4.jpg"/><br>
+<img src="assets/images/IMG_3.jpg"/><br>
 <img src="assets/images/IMG_5.jpg"/><br>
 
